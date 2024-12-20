@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Workflow\\NumberGuessWorkflowActivities\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F415D30-4981-448A-B0E9-AB002CB594B4}|..\\ApplyDynamicUpdate\\ApplyDynamicUpdate.csproj|e:\\workflow\\applydynamicupdate\\dynamicupdateinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F415D30-4981-448A-B0E9-AB002CB594B4}|..\\ApplyDynamicUpdate\\ApplyDynamicUpdate.csproj|e:\\workflow\\applydynamicupdate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0600E053-B1BB-463F-9352-AE804AE7E058}|..\\NumberGuessWorkflowHost\\NumberGuessWorkflowHost.csproj|e:\\workflow\\numberguessworkflowhost\\workflowhostform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0600E053-B1BB-463F-9352-AE804AE7E058}|..\\NumberGuessWorkflowHost\\NumberGuessWorkflowHost.csproj|e:\\workflow\\numberguessworkflowhost\\workflowhostform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WorkflowHostForm.cs",
+              "DocumentMoniker": "E:\\Workflow\\NumberGuessWorkflowHost\\WorkflowHostForm.cs",
+              "RelativeDocumentMoniker": "..\\NumberGuessWorkflowHost\\WorkflowHostForm.cs",
+              "ToolTip": "E:\\Workflow\\NumberGuessWorkflowHost\\WorkflowHostForm.cs",
+              "RelativeToolTip": "..\\NumberGuessWorkflowHost\\WorkflowHostForm.cs",
+              "ViewState": "AgIAAMgAAAAAAAAAAAASwM0AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T06:50:20.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Workflow\\ApplyDynamicUpdate\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ApplyDynamicUpdate\\Program.cs",
+              "ToolTip": "E:\\Workflow\\ApplyDynamicUpdate\\Program.cs",
+              "RelativeToolTip": "..\\ApplyDynamicUpdate\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T06:41:52.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DynamicUpdateInfo.cs",
+              "DocumentMoniker": "E:\\Workflow\\ApplyDynamicUpdate\\DynamicUpdateInfo.cs",
+              "RelativeDocumentMoniker": "..\\ApplyDynamicUpdate\\DynamicUpdateInfo.cs",
+              "ToolTip": "E:\\Workflow\\ApplyDynamicUpdate\\DynamicUpdateInfo.cs",
+              "RelativeToolTip": "..\\ApplyDynamicUpdate\\DynamicUpdateInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T06:39:59.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WorkflowHostForm.cs [Design]",
+              "DocumentMoniker": "E:\\Workflow\\NumberGuessWorkflowHost\\WorkflowHostForm.cs",
+              "RelativeDocumentMoniker": "..\\NumberGuessWorkflowHost\\WorkflowHostForm.cs",
+              "ToolTip": "E:\\Workflow\\NumberGuessWorkflowHost\\WorkflowHostForm.cs [Design]",
+              "RelativeToolTip": "..\\NumberGuessWorkflowHost\\WorkflowHostForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T06:49:39.381Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

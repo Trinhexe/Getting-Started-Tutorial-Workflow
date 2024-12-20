@@ -1,0 +1,13 @@
+E:\Workflow\ApplyDynamicUpdate\bin\Debug\ApplyDynamicUpdate.exe.config
+E:\Workflow\ApplyDynamicUpdate\bin\Debug\ApplyDynamicUpdate.exe
+E:\Workflow\ApplyDynamicUpdate\bin\Debug\ApplyDynamicUpdate.pdb
+E:\Workflow\ApplyDynamicUpdate\bin\Debug\NumberGuessWorkflowHost.exe
+E:\Workflow\ApplyDynamicUpdate\bin\Debug\NumberGuessWorkflowActivities.dll
+E:\Workflow\ApplyDynamicUpdate\bin\Debug\NumberGuessWorkflowHost.pdb
+E:\Workflow\ApplyDynamicUpdate\bin\Debug\NumberGuessWorkflowHost.exe.config
+E:\Workflow\ApplyDynamicUpdate\bin\Debug\NumberGuessWorkflowActivities.pdb
+E:\Workflow\ApplyDynamicUpdate\obj\Debug\ApplyDynamicUpdate.csproj.AssemblyReference.cache
+E:\Workflow\ApplyDynamicUpdate\obj\Debug\ApplyDynamicUpdate.csproj.CoreCompileInputs.cache
+E:\Workflow\ApplyDynamicUpdate\obj\Debug\ApplyDyn.0EF7C418.Up2Date
+E:\Workflow\ApplyDynamicUpdate\obj\Debug\ApplyDynamicUpdate.exe
+E:\Workflow\ApplyDynamicUpdate\obj\Debug\ApplyDynamicUpdate.pdb
